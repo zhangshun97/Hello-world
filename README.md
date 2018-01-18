@@ -7,11 +7,11 @@ Well, from now on, I would like to upload some of my notes of coding, no matter 
 
 Here are the Contents:
 ## R Notes (R in Action)
-### Chapter 2
-### Chapter 3
-### Chapter 4
-### Chapter 5
+###   Chapter 2
+###   Chapter 3
+###   Chapter 4
+###   Chapter 5
 
 ## Github Notes
-### Add a SSH-Key
-### Avoid inputing username and password
+###   Add a SSH-Key
+###   Avoid inputing username and password
